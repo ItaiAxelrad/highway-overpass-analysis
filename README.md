@@ -1,15 +1,12 @@
----
-title: Highway Overpass Analysis
-date: 2013-03-06
-image: 'images/image.png'
-tags: ['calpoly', 'structural', 'bridge', 'matlab']
----
+# Highway Overpass Analysis
+
+A highway overpass analysis project.
 
 ## Problem Introduction
 
 ![Diagram](images/image139.jpg)
 
- This project’s topic is analyzing the I-beams supporting a freeway overpass. Analysis like this is a vital part of the overpass design process, which ensures such a bridge is safe for public use. Bridges are often supported using roller-type connections to allow expansion and minor movement (Carmichael). We have therefore simplified the overpass as an indeterminate beam on pin and roller connections supporting a distributed load. Using Matlab, we have created a program that finds:
+This project’s topic is analyzing the I-beams supporting a freeway overpass. Analysis like this is a vital part of the overpass design process, which ensures such a bridge is safe for public use. Bridges are often supported using roller-type connections to allow expansion and minor movement (Carmichael). We have therefore simplified the overpass as an indeterminate beam on pin and roller connections supporting a distributed load. Using Matlab, we have created a program that finds:
 
 - The bridge’s support reactions
 - Shear, bending moment, angle and displacement diagrams
